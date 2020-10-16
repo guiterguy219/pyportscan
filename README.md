@@ -3,6 +3,7 @@ This is a simple Python tool for scanning multiple ports on multiple machines, o
 ## Dependencies
 - Python3
 - Scapy basic
+    - ```pip install scapy```
 ## Usage
 __Note__: *All commands must be run with __superuser__ privileges*.
 ```
